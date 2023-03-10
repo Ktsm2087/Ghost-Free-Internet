@@ -1,10 +1,14 @@
-### Command Install
+# 📌📖 Installation
 
 ```
 rm -f setup.sh && apt update && apt upgrade -y && update-grub && sleep 2 && apt-get update -y && apt-get upgrade && sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.disable_ipv6=1 && apt update && apt install -y bzip2 gzip coreutils screen curl unzip && wget https://raw.githubusercontent.com/lizsvr/cfnfree/main/setup.sh && chmod +x setup.sh && sed -i -e 's/\r$//' setup.sh && screen -S setup ./setup.sh
 ```
 
-### Fitur Script [ Mod By LIZ ]
+-------------------------------------------------------------------------------
+
+
+
+# 📌SSH Script [ Mod By 🧿 ₲ⱧØ₴₮ ₦Ɇ₮₩ØⱤ₭ ₵ⱤɆ₩ 🧿 ]
 
 • SSH & OpenVPN
 
@@ -50,7 +54,7 @@ rm -f setup.sh && apt update && apt upgrade -y && update-grub && sleep 2 && apt-
 
 • OHP OpenVPN             : 8383
 
- ### Server Information & Other Features
+ ## 📌Server Information & Other Features
 
 • Timezone                : Asia/Jakarta (GMT +7)
 
@@ -64,16 +68,17 @@ rm -f setup.sh && apt update && apt upgrade -y && update-grub && sleep 2 && apt-
 
 • IPv6                    : [OFF]
 
+• Feature Delete Expired Account
+
 • Autoreboot On 05.00 GMT +7
 
-• Futo Delete Expired Account
+-------------------------------------------------------------------------------
 
+# 🔥🌀🌀 ₲ⱧØ₴₮ ₦Ɇ₮₩ØⱤ₭ ₵ⱤɆ₩ 🌀🌀🔥
 
+-------------------------------------------------------------------------------
 
+# 😍 Credits
 
+1. @lizsvr - Developer of ssh Manager
 
-
-------------
-**Telegram**
-------------
-[LIZSVR](https://t.me/liz_mine)
